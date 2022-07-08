@@ -1,0 +1,3 @@
+- Hi, Im Bryce
+- Im interested in UX/UI, WebDev, music, and product design
+- Im currently learning JavaScript
